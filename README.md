@@ -5,9 +5,14 @@ Installation requirements:
 -----------------------
 
 Assumes working installation of anaconda. Open anaconda prompt (on windows, you'll want anaconda powershell prompt). Navigate to ../HyperSpectralCluster/, using "cd PathYouClonedGitHubTo/HyperBirdOfParadise/".
-Run command : conda env create --file=hsi_environment.yml
+Run command : 
+
+conda env create --file=hsi_environment.yml
+
 Or if you want to name the environment something other than hsi, use:
-Run command : conda env create --name --file=hsi_environment.yml
+
+conda env create --name --file=hsi_environment.yml
+
 You should then be able to use command: "conda activate hsi" to activate the environment containing the required packages listed in hsi_environment.yml
 Note that these requirements include packages that are required to replicate the paper, but are not strictly required to use the hsi package code found in /hsi/. That said, you may find many of the packages useful if you use the code from the paper as inspiration for your own analyses and plots.
 
