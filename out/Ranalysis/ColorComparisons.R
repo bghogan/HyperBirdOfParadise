@@ -82,7 +82,6 @@ models <- lapply(spec_list, pavo::vismodel,
                  achromatic = 'ch.dc')
 
 # Write the sensitivities for the avg_v bird to a file for use in python
-# ocular transmission?
 mod <- pavo::sensdata(visual = 'avg.v')
 write.csv(mod, '../../dat/Sensi/Avg_v.csv', row.names = F)
 
