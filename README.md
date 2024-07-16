@@ -4,7 +4,7 @@
 Installation requirements:
 -----------------------
 
-Assumes working installation of anaconda. Open anaconda prompt (on windows, want anaconda powershell prompt). Navigate to ../HyperSpectralCluster/, using "cd PathYouClonedGitHubTo/HyperBirdOfParadise/".
+Assumes working installation of anaconda. Open anaconda prompt (on windows, you'll want anaconda powershell prompt). Navigate to ../HyperSpectralCluster/, using "cd PathYouClonedGitHubTo/HyperBirdOfParadise/".
 Run command : conda env create --file=hsi_environment.yml
 Or if you want to name the environment something other than hsi, use:
 Run command : conda env create --name --file=hsi_environment.yml
