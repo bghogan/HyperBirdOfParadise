@@ -1,0 +1,26 @@
+name: hsi
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy=1.24.4
+  - matplotlib=3.7
+  - plotly
+  - colour-science=0.4.1
+  - spectral=0.23.1
+  - seaborn
+  - pillow=10.0
+  - scipy=1.9
+  - pandas
+  - re2
+  - scikit-image
+  - scikit-learn
+  - glob2
+  - ipykernel
+  - ipywidgets>=7.6.3
+  - notebook>=7.0
+  - nb_conda_kernels
+  - umap-learn
+  - tqdm
+  - matplotlib-label-lines
+  - python-kaleido
