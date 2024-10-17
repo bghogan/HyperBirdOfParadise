@@ -8,7 +8,7 @@ Installation requirements:
 
 Assumes working installation of anaconda (but use whatever environment manager you prefer, and modify the below to suit). <br />
 
-Open anaconda prompt (on windows, want anaconda powershell prompt) and navigate to "../HyperSpectralCluster/", using: <br />
+Open anaconda prompt (on windows, want anaconda powershell prompt) and navigate to "../HyperBirdOfParadise/", using: <br />
 **cd C:/PathYouClonedGitHubTo/HyperBirdOfParadise/** <br />
 
 Run: <br />
